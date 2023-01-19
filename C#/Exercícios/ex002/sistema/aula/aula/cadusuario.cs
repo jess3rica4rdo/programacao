@@ -18,8 +18,7 @@ namespace aula
             InitializeComponent();
         }
 
-        string PP = @"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Aulaa;Data Source=DESKTOP-HKMIROJ\SQLEXPRESS
-
+        string PP = @"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Aula;Data Source=DESKTOP-QJSJVU3\SQLEXPRESS
 "; 
 
         private void btcadastrar_Click(object sender, EventArgs e)
@@ -53,7 +52,7 @@ namespace aula
 
         public DataTable Cadastros()
         {
-            SqlConnection conn = new SqlConnection(@"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Aulaa;Data Source=DESKTOP-HKMIROJ\SQLEXPRESS");
+            SqlConnection conn = new SqlConnection(@"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Aula;Data Source=DESKTOP-QJSJVU3\SQLEXPRESS");
             DataTable dt = new DataTable();
             SqlDataAdapter apter = new SqlDataAdapter("select* from Cadastros", conn);
             apter.Fill(dt);
@@ -65,10 +64,6 @@ namespace aula
             dataGridView1.DataSource = Cadastros(); 
            }
 
-        private void cadusuario_Load(object sender, EventArgs e)
-        {
-
         }
-    }
     }
 
