@@ -1,0 +1,40 @@
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe.config
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.pdb
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.login.resources
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.principal.resources
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.Properties.Resources.resources
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.csproj.GenerateResource.Cache
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.exe
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.pdb
+C:\Users\Pedro Pembele\Desktop\Aula\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.cadusuarios.resources
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe.config
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.exe
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.pdb
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.pdb
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.cadusuarios.resources
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.login.resources
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.principal.resources
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.Properties.Resources.resources
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.csproj.GenerateResource.Cache
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.Vendas.resources
+C:\Users\Pedro Pembele\Desktop\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.cadprodutos.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe.config
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.cadprodutos.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.cadusuarios.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.login.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.principal.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.Vendas.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Aula Conexão  & Login com Níveis\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Aulas\terceira aula (niveis de acesso)\sistema_Aula\sistema_Aula\bin\Debug\sistema_Aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Aulas\terceira aula (niveis de acesso)\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Aulas\terceira aula (niveis de acesso)\sistema_Aula\sistema_Aula\obj\Debug\sistema_Aula.pdb

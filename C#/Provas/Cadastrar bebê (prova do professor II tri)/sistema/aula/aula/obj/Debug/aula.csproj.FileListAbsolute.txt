@@ -1,0 +1,142 @@
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.prncipal.resources
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\Pedro Pembele\Desktop\Aula_TLP\sistema\aula\aula\obj\Debug\aula.login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Aula_TLP2\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Aula_TLP2\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Aula_TLP2\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.prncipal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-003\sistema\aula\aula\obj\Debug\aula.cadprodutos.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.cadprodutos.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.vendas.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-004\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.cadprodutos.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.Vendas.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-005\sistema\aula\aula\obj\Debug\aula.Relatório.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.cadprodutos.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.Relatório.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.Vendas.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Exercícios\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Ambiente de Trabalho\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\ex002-006 (formularios, niveis de acesso, delete)\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.cadlivro.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\prova\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadlivros.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadlivros.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadbebe.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadbebe.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Avaliação\Prova Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.cadbebe.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache

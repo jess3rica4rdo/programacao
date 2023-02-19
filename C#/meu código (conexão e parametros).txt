@@ -1,0 +1,109 @@
+**CLASS CONEXÃO**
+
+string jj = @"Data Source=DESKTOP-HKMIROJ\SQLEXPRESS;Initial Catalog=Aula;Integrated Security=True";
+
+namespace aula
+{
+    public class conexao
+    {
+        SqlConnection con = new SqlConnection();
+        public conexao()
+        {
+            con.ConnectionString = @"Data Source=DESKTOP-HKMIROJ\SQLEXPRESS;Initial Catalog=Aula;Integrated Security=True";
+
+        }
+
+        public SqlConnection conectar()
+        {
+            if (con.State == System.Data.ConnectionState.Closed)
+            {
+                con.Open();
+            }
+
+            return con;
+
+
+        }
+        public void desconectar()
+        {
+            if (con.State == System.Data.ConnectionState.Open)
+            {
+                con.Close();
+            }
+        }
+    }
+}
+
+
+**COLOCAR A STRING DE CONEXÃO EM OUTROS FORMULÁRIOS**
+
+        conexao conexao = new conexao();
+        SqlCommand cmd = new SqlCommand();
+        public String mensagem;
+
+
+**PARAMETROS**
+
+Ex(usuario)
+
+ public cadusuario(String Nome_completo, String Usuario, String Senha, String Função)
+        {
+          cmd.CommandText = "insert into Usuario (Nome_completo, Usuario, Senha, Função) values (@Nome_completo, @Usuario, @Senha, @Função)";
+          cmd.Parameters.AddWithValue("@Nome_completo", Nome_completo);
+          cmd.Parameters.AddWithValue("@Usuario", Usuario);
+          cmd.Parameters.AddWithValue("@Senha", Senha);
+          cmd.Parameters.AddWithValue("@Função", Função);
+
+           try
+           {
+             cmd.Connection = conexao.conectar();
+             cmd.ExecuteNonQuery();
+             conexao.desconectar();
+             this.mensagem = "Usuario cadastrado com Sucesso";
+          
+           }
+             catch (Exception)
+           {
+             this.mensagem = "Erro ao cadastrar Usuario";
+           }
+         }
+
+  public DataTable Usuario()
+        {
+            SqlConnection conn = new SqlConnection(jj);
+            DataTable dt = new DataTable();
+            SqlDataAdapter apter = new SqlDataAdapter("select* from Usuario", conn);
+            apter.Fill(dt);
+            return dt;
+
+Ex(produto)
+
+public cadprodutos(String Nome, String Tipo, String Preço, String Estoque, String Data_registo)
+        {
+         cmd.CommandText = "insert into Produto (Nome, Tipo, Preço, Estoque, Data_registo) values (@Nome, @Tipo, @Preço, @Estoque, @Data_registo)";
+         cmd.Parameters.AddWithValue("@Nome", Nome);
+         cmd.Parameters.AddWithValue("@Tipo", Tipo);
+         cmd.Parameters.AddWithValue("@Preço", Preço);
+         cmd.Parameters.AddWithValue("@Estoque", Estoque);
+         cmd.Parameters.AddWithValue("@Data_registo", Data_registo);
+
+         try
+         {
+             cmd.Connection = conexao.conectar();
+             cmd.ExecuteNonQuery();
+             conexao.desconectar();
+             this.mensagem = "Produto cadastrado com Sucesso";
+         }
+         catch (Exception)
+         {
+             this.mensagem = "Erro ao cadastrar Produto";
+         }
+        }
+        public DataTable Produto()
+        {
+            SqlConnection conn = new SqlConnection(jj);
+            DataTable dt = new DataTable();
+            SqlDataAdapter apter = new SqlDataAdapter("select* from Produto", conn);
+            apter.Fill(dt);
+            return dt;
+        }
