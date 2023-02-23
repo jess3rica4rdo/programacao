@@ -45,7 +45,7 @@
             this.btn_deletar = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.txt_codusuario = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.bt_pesquisar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -216,17 +216,17 @@
             this.txt_codusuario.Size = new System.Drawing.Size(125, 23);
             this.txt_codusuario.TabIndex = 16;
             // 
-            // button1
+            // bt_pesquisar
             // 
-            this.button1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(313, 178);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(98, 28);
-            this.button1.TabIndex = 17;
-            this.button1.Text = "Pesquisar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.bt_pesquisar.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bt_pesquisar.Location = new System.Drawing.Point(313, 178);
+            this.bt_pesquisar.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.bt_pesquisar.Name = "bt_pesquisar";
+            this.bt_pesquisar.Size = new System.Drawing.Size(98, 28);
+            this.bt_pesquisar.TabIndex = 17;
+            this.bt_pesquisar.Text = "Pesquisar";
+            this.bt_pesquisar.UseVisualStyleBackColor = true;
+            this.bt_pesquisar.Click += new System.EventHandler(this.button1_Click);
             // 
             // cadusuario
             // 
@@ -234,7 +234,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(550, 547);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.bt_pesquisar);
             this.Controls.Add(this.txt_codusuario);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.btn_deletar);
@@ -282,7 +282,7 @@
         private System.Windows.Forms.Button btn_deletar;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txt_codusuario;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button bt_pesquisar;
 
     }
 }

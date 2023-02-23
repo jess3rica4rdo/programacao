@@ -14,8 +14,6 @@ namespace aula
     public partial class cadbebe : Form
     {
         string jj = @"Data Source=DESKTOP-HKMIROJ\SQLEXPRESS;Initial Catalog=Bercario;Integrated Security=True";
-        string del = "delete from Bebe where CodBebe = @CodBebe";
-        string pes = "select CodBebe, NomeBebe, Peso, Altura, Sexo, Mae, Medico, Data_nascimento from Bebe where NomeBebe LIKE @NomeBebe";
 
         public cadbebe()
         {
@@ -28,7 +26,7 @@ namespace aula
 
         public cadbebe(String NomeBebe, String Data_nascimento, String Peso, String Altura, String Sexo, String Mae, String Medico)
         {
-            cmd.CommandText = "insert into Bebe (NomeBebe, Data_nascimento, Peso, Altura, Sexo, Mae, Medico) values (@NomeBebe, @Data_nascimento, @Peso, @Altura, @Sexo, @Mae, @Medico)";
+            cmd.CommandText = "INSERT INTO Bebe (NomeBebe, Data_nascimento, Peso, Altura, Sexo, Mae, Medico) VALUES (@NomeBebe, @Data_nascimento, @Peso, @Altura, @Sexo, @Mae, @Medico)";
             cmd.Parameters.AddWithValue("@NomeBebe", NomeBebe);
             cmd.Parameters.AddWithValue("@Data_nascimento", Data_nascimento);
             cmd.Parameters.AddWithValue("@Peso", Peso);
@@ -63,6 +61,14 @@ namespace aula
         {
           cadbebe c = new cadbebe(txt_nomebebe.Text, txt_datanascimento.Text, txt_peso.Text, txt_altura.Text, txt_sexo.Text, txt_mae.Text, txt_medico.Text);
           MessageBox.Show(c.mensagem);
+          txt_nomebebe.Clear();
+          txt_datanascimento.Clear();
+          txt_peso.Clear();
+          txt_altura.Clear();
+          txt_sexo.Clear();
+          txt_mae.Clear();
+          txt_medico.Clear();
+          dataGridView1.DataSource = Bebe();
         }
 
 
@@ -73,6 +79,7 @@ namespace aula
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string del = "DELETE FROM Bebe WHERE CodBebe = @CodBebe";
             
             try
             {
@@ -90,17 +97,20 @@ namespace aula
                 MessageBox.Show("Erro ao Deletar o Bebê");
             }
 
-            txt_codbebe.Text = "";
+            txt_codbebe.Clear();
+            dataGridView1.DataSource = Bebe();
         }
 
         private void bt_pesquisar_Click(object sender, EventArgs e)
         {
+            string pes = "SELECT NomeBebe, Data_nascimento, Peso, Altura, Sexo, Mae, Medico FROM Bebe WHERE NomeBebe LIKE @NomeBebe";
+
             try
             {
                 SqlConnection conn = new SqlConnection(jj);
                 conn.Open();
                 SqlCommand Cmd = new SqlCommand(pes, conn);
-                Cmd.Parameters.AddWithValue(@"NomeBebe", "%" + txt_datanascimento.Text + "%");
+                Cmd.Parameters.AddWithValue(@"NomeBebe", "%" + txt_nomebebe + "%");
                 SqlDataAdapter data = new SqlDataAdapter(Cmd);
                 DataSet consulta = new DataSet();
                 data.Fill(consulta);
@@ -108,10 +118,13 @@ namespace aula
             }
             catch
             {
+                MessageBox.Show("Este Bebê não está resgistrado no sistema");
             }
 
         }
-     
+
+
+
     }
 }
 

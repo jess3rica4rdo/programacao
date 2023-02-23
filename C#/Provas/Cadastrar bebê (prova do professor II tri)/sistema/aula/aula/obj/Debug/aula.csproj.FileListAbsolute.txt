@@ -140,3 +140,15 @@ C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\s
 C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.Principal.resources
 C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
 C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Prova(cad bebê)\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.cadbebe.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Cadastrar bebê (prova do professor II tri)\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache

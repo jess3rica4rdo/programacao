@@ -85,7 +85,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(169, 102);
+            this.label3.Location = new System.Drawing.Point(169, 104);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(53, 17);
             this.label3.TabIndex = 2;
@@ -110,7 +110,7 @@
             // txt_edicao
             // 
             this.txt_edicao.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_edicao.Location = new System.Drawing.Point(228, 100);
+            this.txt_edicao.Location = new System.Drawing.Point(228, 102);
             this.txt_edicao.Name = "txt_edicao";
             this.txt_edicao.Size = new System.Drawing.Size(100, 22);
             this.txt_edicao.TabIndex = 6;
@@ -162,7 +162,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(6, 100);
+            this.label5.Location = new System.Drawing.Point(6, 102);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(54, 17);
             this.label5.TabIndex = 12;
@@ -171,7 +171,7 @@
             // txt_editora
             // 
             this.txt_editora.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_editora.Location = new System.Drawing.Point(66, 97);
+            this.txt_editora.Location = new System.Drawing.Point(66, 99);
             this.txt_editora.Name = "txt_editora";
             this.txt_editora.Size = new System.Drawing.Size(97, 22);
             this.txt_editora.TabIndex = 13;

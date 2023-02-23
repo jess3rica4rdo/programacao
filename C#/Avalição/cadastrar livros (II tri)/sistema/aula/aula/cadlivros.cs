@@ -13,9 +13,7 @@ namespace aula
 {
     public partial class cadlivros : Form
     {
-        string jj = @"Data Source=DESKTOP-HKMIROJ\SQLEXPRESS;Initial Catalog=Biblioteca;Integrated Security=True";
-        string del = "delete from Livro where CodLivro = @CodLivro";
-        string pes = "select Titulo, Edicao, NomeAutor from Livro where Titulo LIKE @Titulo";
+        string jj = @"Data Source=DESKTOP-HKMIROJ\SQLEXPRESS;Initial Catalog=Biblioteca;Integrated Security=True";   
 
         public cadlivros()
         {
@@ -28,7 +26,7 @@ namespace aula
 
         public cadlivros(String NomeAutor, String Titulo, String Editora, String Edicao, String Endereco)
         {
-            cmd.CommandText = "insert into Livro (NomeAutor, Titulo, Editora, Edicao, Endereco) values (@NomeAutor, @Titulo, @Editora, @Edicao, @Endereco)";
+            cmd.CommandText = "INSERT INTO Livro (NomeAutor, Titulo, Editora, Edicao, Endereco) VALUES (@NomeAutor, @Titulo, @Editora, @Edicao, @Endereco)";
             cmd.Parameters.AddWithValue("@NomeAutor", NomeAutor);
             cmd.Parameters.AddWithValue("@Titulo", Titulo);
             cmd.Parameters.AddWithValue("@Editora", Editora);
@@ -59,9 +57,15 @@ namespace aula
 
         private void bt_cadastrar_Click(object sender, EventArgs e)
         {
-          cadlivros l = new cadlivros(txt_nomeautor.Text, txt_titulo.Text, txt_editora.Text, txt_edicao.Text, txt_endereco.Text);
-          MessageBox.Show(l.mensagem);
-        }
+              cadlivros l = new cadlivros(txt_nomeautor.Text, txt_titulo.Text, txt_editora.Text, txt_edicao.Text, txt_endereco.Text);
+              MessageBox.Show(l.mensagem);
+              txt_nomeautor.Clear();
+              txt_titulo.Clear();
+              txt_editora.Clear();
+              txt_edicao.Clear();
+              txt_endereco.Clear();
+              dataGridView1.DataSource = Livro();
+            }
 
         private void bt_visualizar_Click(object sender, EventArgs e)
         {
@@ -70,6 +74,7 @@ namespace aula
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string del = "DELETE FROM Livro WHERE CodLivro = @CodLivro";
             
             try
             {
@@ -86,10 +91,15 @@ namespace aula
             {
                 MessageBox.Show("Erro ao Deletar o Livro");
             }
+
+            txt_codlivro.Clear();
+            dataGridView1.DataSource = Livro();
         }
 
         private void bt_pesquisar_Click(object sender, EventArgs e)
         {
+            string pes = "SELECT Titulo, Edicao, NomeAutor FROM Livro WHERE Titulo LIKE @Titulo";
+
             try
             {
                 SqlConnection conn = new SqlConnection(jj);

@@ -14,9 +14,7 @@ namespace aula
     public partial class cadusuario : Form
     {
         string jj = @"Data Source=DESKTOP-HKMIROJ\SQLEXPRESS;Initial Catalog=Biblioteca;Integrated Security=True";
-        string del = "delete from Usuario where CodUsuario = @CodUsuario";
-        string pes = "select Titulo, Edicao, NomeAutor from Livro where Titulo LIKE @Titulo";
-
+       
         public cadusuario()
         {
           InitializeComponent();
@@ -28,7 +26,7 @@ namespace aula
 
         public cadusuario(String Nome_completo, String Usuario, String Senha, String Função)
         {
-          cmd.CommandText = "insert into Usuario (Nome_completo, Usuario, Senha, Função) values (@Nome_completo, @Usuario, @Senha, @Função)";
+          cmd.CommandText = "INSERT INTO Usuario (Nome_completo, Usuario, Senha, Função) VALUES (@Nome_completo, @Usuario, @Senha, @Função)";
           cmd.Parameters.AddWithValue("@Nome_completo", Nome_completo);
           cmd.Parameters.AddWithValue("@Usuario", Usuario);
           cmd.Parameters.AddWithValue("@Senha", Senha);
@@ -47,12 +45,21 @@ namespace aula
            {
              this.mensagem = "Erro ao cadastrar Usuario";
            }
+
+            
+ 
          }
 
     private void btcadastrar_Click(object sender, EventArgs e)
     {
          cadusuario cad = new cadusuario(txtnomecompleto.Text, txt_usuario.Text, txt_senha.Text, combfun.Text);
          MessageBox.Show(cad.mensagem);
+
+         txtnomecompleto.Clear();
+         txt_usuario.Clear();
+         txt_senha.Clear();
+         combfun.Text = "";
+         dataGridView1.DataSource = Usuario();
     }
 
         public DataTable Usuario()
@@ -66,11 +73,12 @@ namespace aula
 
         private void btvisualizar_Click(object sender, EventArgs e)
         {
-         dataGridView1.DataSource = Usuario(); 
+            dataGridView1.DataSource = Usuario(); 
         }
 
         private void btn_deletar_Click(object sender, EventArgs e)
         {
+            string del = "DELETE FROM Usuario WHERE CodUsuario = @CodUsuario";
 
             try
             {
@@ -87,11 +95,29 @@ namespace aula
             {
                 MessageBox.Show("Erro ao Deletar o Usuario");
             }
+                txt_codusuario.Clear();
+                dataGridView1.DataSource = Usuario(); 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string pes = "SELECT Nome_completo, Usuario, Senha, Função FROM Usuario WHERE Nome_completo LIKE @Nome_completo";
 
+            try
+            {
+                SqlConnection conn = new SqlConnection(jj);
+                conn.Open();
+                SqlCommand Cmd = new SqlCommand(pes, conn);
+                Cmd.Parameters.AddWithValue(@"Nome_completo", "%" + txtnomecompleto.Text + "%");
+                SqlDataAdapter data = new SqlDataAdapter(Cmd);
+                DataSet consulta = new DataSet();
+                data.Fill(consulta);
+                dataGridView1.DataSource = consulta.Tables[0];
+            }
+            catch
+            {
+                MessageBox.Show("Este Usuário não está resgistrado no sistema");
+            }
         }
      }
   }

@@ -104,3 +104,15 @@ C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad li
 C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Principal.resources
 C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
 C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avaliação(cad livros)\Avaliação Jessé Neto GSI12BT\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\bin\Debug\aula.exe.config
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\bin\Debug\aula.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\bin\Debug\aula.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.cadlivros.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.cadusuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.Login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.Principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Avalição\cadastrar livros (II tri)\sistema\aula\aula\obj\Debug\aula.csproj.GenerateResource.Cache
