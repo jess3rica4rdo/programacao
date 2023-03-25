@@ -1,5 +1,5 @@
-Create Database Loja
-use Loja
+Create Database aul
+use aul
 
 -------------------------------Criação das tabelas---------------------------------~--
 

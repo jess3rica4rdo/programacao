@@ -1,0 +1,43 @@
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.exe.config
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.exe
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.pdb
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.inicialização.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.login.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.principal.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.Properties.Resources.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.csproj.GenerateResource.Cache
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.exe
+C:\Users\Pedro Pembele\Desktop\SIG_FARMA\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.pdb
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.exe.config
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.exe
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.pdb
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.exe
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.pdb
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.inicialização.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.login.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.principal.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.Properties.Resources.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.csproj.GenerateResource.Cache
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.vendas.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.cadusuarios.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.cadfarmacos.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.cadfornecedores.resources
+C:\Users\Pedro Pembele\Desktop\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.Estoque.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.exe.config
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.exe
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.pdb
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.exe
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\bin\Debug\SIG_FARMACIA.pdb
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.cadfarmacos.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.cadfornecedores.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.cadusuarios.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.Estoque.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.inicialização.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.login.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.principal.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.Properties.Resources.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.vendas.resources
+C:\Users\Pedro Pembele\Desktop\IPIKK 2023\AULAS\TLP\Aulas Práticas\SIG_FARMACIA\SIG_FARMACIA\SIG_FARMACIA\obj\Debug\SIG_FARMACIA.csproj.GenerateResource.Cache

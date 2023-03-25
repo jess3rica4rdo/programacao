@@ -47,6 +47,7 @@
             this.toolStripStatusLabel5 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel6 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel10 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.toolStripStatusLabel11 = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -59,7 +60,7 @@
             this.logoutToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(548, 25);
+            this.menuStrip1.Size = new System.Drawing.Size(1011, 25);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -108,12 +109,13 @@
             this.toolStripStatusLabel2,
             this.toolStripStatusLabel1,
             this.toolStripStatusLabel7,
+            this.toolStripStatusLabel10,
             this.toolStripStatusLabel5,
             this.toolStripStatusLabel6,
-            this.toolStripStatusLabel10});
+            this.toolStripStatusLabel11});
             this.statusStrip1.Location = new System.Drawing.Point(0, 285);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(548, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(1011, 22);
             this.statusStrip1.TabIndex = 9;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -183,8 +185,8 @@
             // toolStripStatusLabel5
             // 
             this.toolStripStatusLabel5.Name = "toolStripStatusLabel5";
-            this.toolStripStatusLabel5.Size = new System.Drawing.Size(12, 17);
-            this.toolStripStatusLabel5.Text = "-";
+            this.toolStripStatusLabel5.Size = new System.Drawing.Size(20, 17);
+            this.toolStripStatusLabel5.Text = "//";
             // 
             // toolStripStatusLabel6
             // 
@@ -198,11 +200,17 @@
             this.toolStripStatusLabel10.Size = new System.Drawing.Size(148, 17);
             this.toolStripStatusLabel10.Text = "toolStripStatusLabel10";
             // 
+            // toolStripStatusLabel11
+            // 
+            this.toolStripStatusLabel11.Name = "toolStripStatusLabel11";
+            this.toolStripStatusLabel11.Size = new System.Drawing.Size(148, 17);
+            this.toolStripStatusLabel11.Text = "toolStripStatusLabel11";
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(548, 307);
+            this.ClientSize = new System.Drawing.Size(1011, 307);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -240,5 +248,6 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel5;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel6;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel10;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel11;
     }
 }

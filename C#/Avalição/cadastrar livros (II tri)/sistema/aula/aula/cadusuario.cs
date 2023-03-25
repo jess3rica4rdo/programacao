@@ -32,35 +32,36 @@ namespace aula
           cmd.Parameters.AddWithValue("@Senha", Senha);
           cmd.Parameters.AddWithValue("@Função", Função);
 
-           try
-           {
+            try
+         {
              cmd.Connection = conexao.conectar();
              cmd.ExecuteNonQuery();
              conexao.desconectar();
              this.mensagem = "Usuario cadastrado com Sucesso";
-             
-          
-           }
-             catch (Exception)
-           {
-             this.mensagem = "Erro ao cadastrar Usuario";
-           }
-
-            
- 
          }
+         catch (Exception)
+         {
+             this.mensagem = "Erro ao cadastrar Usuario";
+         }
+        }
+         
 
     private void btcadastrar_Click(object sender, EventArgs e)
     {
-         cadusuario cad = new cadusuario(txtnomecompleto.Text, txt_usuario.Text, txt_senha.Text, combfun.Text);
-         MessageBox.Show(cad.mensagem);
-
-         txtnomecompleto.Clear();
-         txt_usuario.Clear();
-         txt_senha.Clear();
-         combfun.Text = "";
-         dataGridView1.DataSource = Usuario();
+        cadusuario cad = new cadusuario(txtnomecompleto.Text, txt_usuario.Text, txt_senha.Text, combfun.Text);
+        MessageBox.Show(cad.mensagem);
+   
+        txtnomecompleto.Clear();
+        txt_usuario.Clear();
+        txt_senha.Clear();
+        combfun.Text = "";
+        dataGridView1.DataSource = Usuario();
+           
+        
+        
     }
+
+ 
 
         public DataTable Usuario()
         {
@@ -101,7 +102,7 @@ namespace aula
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string pes = "SELECT Nome_completo, Usuario, Senha, Função FROM Usuario WHERE Nome_completo LIKE @Nome_completo";
+            string pes = "SELECT CodUsuario, Nome_completo, Usuario, Senha, Função FROM Usuario WHERE Nome_completo LIKE @Nome_completo";
 
             try
             {
