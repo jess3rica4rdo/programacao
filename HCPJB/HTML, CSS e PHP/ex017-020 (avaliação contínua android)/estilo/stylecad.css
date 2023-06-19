@@ -1,0 +1,303 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); 
+
+@font-face {
+    font-family: 'Android';
+    src: url('../fontes/idroid.otf') format('opentype');
+    font-weigth: normal;
+}
+
+:root{
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+
+    --font-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --font-destaque: 'Bebas Neue', cursive;
+    --font-android: 'Android', cursive;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body{
+    background-color: var(--cor0);
+    font-family: var(--font-padrao);
+}
+
+a.externo::after{
+    content: '\00A0\1F517';
+}
+
+
+header {
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    min-width: 150px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+header > h1 {
+    color: white;
+    font-family: var(--font-destaque);
+    font-size: em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.301);
+    
+}
+
+header > p {
+    font-family: var(--font-padrao);
+    font-size: 1.2em;
+    color: white;
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.301);
+}
+
+nav {
+    background-color: var(--cor5);
+    padding: 10px;
+    text-shadow: 0px 7px 7px rgba(0, 0, 0, 0.315);
+}
+
+nav  > a {
+    color:var(--cor1);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.5s;
+
+}
+
+nav  > a:hover {
+    background-color: var(--cor3);
+    color: var(--cor5);
+}
+
+
+.pp{ 
+    background-color: var(--cor3);
+    color: var(--cor5);
+}
+
+main {
+    
+    min-width: 200px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0x 0x 10px black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+main h2 {
+    font-family: var(--font-android);
+    color: var(--cor4);
+    font-size: 1.3em;
+    text-indent: 8px;
+}
+
+main p{
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 1em;
+    line-height: 2em;
+}
+
+main strong{
+    color: var(--cor4);
+    font-weight: bold;
+}
+
+main a {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--cor5);
+    background-color: var(--cor1);
+    padding: 2px 6px;
+}
+
+main a:hover {
+    text-decoration: underline;
+    color: var(--cor4); 
+}
+
+main img {
+    width: 100%;
+}
+
+main img.pequena {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+
+
+
+#form{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    padding-top: 40px;
+    height: 400px; 
+    width: 400px;
+    margin: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+    animation: iniciar 1.6s ease-out;
+    pointer-events: all;   
+}
+
+.title{
+    color: var(--cor5);
+    font-family: var(--font-android);
+    text-align: center;
+    font-size: 26px;
+    margin-top: 0px;
+    margin-bottom: 20px;    
+    padding-bottom:10px;  
+}
+
+label{
+    
+    font-family: var(--font-android);
+    color: var(--cor4);
+    font-size: 1.3em;
+    text-indent: 8px;
+    margin-bottom: 10px;
+
+}
+
+.input{
+    
+    border-radius: 22px;
+    border: 2px #6f7e8a solid;
+    padding: 2px;
+    margin: 0px 0px 8px -5px;
+}
+
+.input i{
+    
+    font-size: 15px;
+    padding: 5px;
+    color: #063d1e;
+}
+
+.input input{
+    width: 80%;
+    border: none;
+    outline: none;
+    font-family: 'Poppins' sans-serif;
+    transform: translateY(-10%);
+    font-size: 11pt;
+}
+
+#cadastrar{
+    margin-top: 10%;
+    width: 100%;
+    text-align: center;
+}
+
+#cadastrar button{
+    font-family: 'Poppins' sans-serif;
+   background-color: rgb(202, 44, 44);
+    
+    
+    width: 180px;
+    height: 40px;
+    border: none;
+    font-size: 15px;
+    color: white;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 20px;
+    scale: 1;
+}
+
+#cadastrar > .btn{
+    margin-right: 30px;
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+}
+
+footer {
+    background-color: var(--cor5);
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+} 
+
+footer > p > a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+} 
+
+footer a:hover {
+    text-decoration: underline;
+    color: var(--cor1);
+} 
+
+.message {
+    padding: 19px 60px;
+    position: fixed;
+    top: 80px;
+    right: 105px;
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    border-radius: 3px;
+    color: #fff;
+    animation: slidein 0.2 cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+    @keyframes slidein {
+    0% {
+        transform: translateX(1000px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.message::before {
+content: "";
+position: absolute;
+left: 0;
+bottom: 0;
+width: 0;
+height: 5px;
+background-color: rgba(0, 0, 0, 0.5);
+animation: time 8s forwards;
+}
+    @keyframes time {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    } 
+}
+
+
+
+
