@@ -1,0 +1,30 @@
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaDados.deps.json
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaDados.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaDados.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaEntidade.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.csproj.CopyComplete
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\refint\CapaDados.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\ref\CapaDados.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaDados.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaDados.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaDados.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaEntidade.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\bin\Debug\net6.0\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\refint\CapaDados.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\CapaDados.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaDados\obj\Debug\net6.0\ref\CapaDados.dll

@@ -1,0 +1,5 @@
+ cd_categorias c = new cd_categorias();
+              DataTable cd_ctegorias = c.categoria();
+              comb_categoria.DataSource = cd_ctegorias;
+              comb_categoria.DisplayMember = "tipo";
+              comb_categoria.ValueMember = "tipo"; 

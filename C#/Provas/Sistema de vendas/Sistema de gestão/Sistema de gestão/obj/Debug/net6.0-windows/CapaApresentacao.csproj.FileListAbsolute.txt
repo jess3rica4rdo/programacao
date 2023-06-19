@@ -1,0 +1,134 @@
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.login.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.CopyComplete
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaDados.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaEntidade.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaDados.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_produtos.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_usuario.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.compras.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.vendas.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_clientes.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_fornecedores.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.Properties.Resources.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_produto.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.ResolveComReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.painel_principal.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_cliente.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_fornecedor.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_produto1.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_produto2.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.relatorio_compra.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.relatorio_venda.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.acerca_de.resources
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.exe
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.deps.json
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.runtimeconfig.json
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\refint\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\SistemDeVendaBeta.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\ref\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.exe
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SistemDeVendaBeta.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaDados.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaEntidade.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\bin\Debug\net6.0-windows\CapaDados.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.ResolveComReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.acerca_de.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_clientes.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_fornecedores.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_produtos.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.cad_usuario.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.compras.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.login.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.painel_principal.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_cliente.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_fornecedor.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_produto.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_produto1.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.pes_produto2.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.relatorio_compra.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.relatorio_venda.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\Sistema_de_gestão.vendas.resources
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\refint\SistemDeVendaBeta.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\SistemDeVendaBeta.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\CapaApresentacao.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\Sistema de gestão\obj\Debug\net6.0-windows\ref\SistemDeVendaBeta.dll

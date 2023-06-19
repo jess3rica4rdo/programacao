@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout</title>
+     <style>
+            *
+            {
+                margin: 0;
+                padding: 0;
+                border: 0;
+            }
+
+            body
+            {
+                background-color: black;
+            }
+
+            #site 
+            {
+                background-color: #8FC1B5;
+                width: 990px;
+                height: 900px;
+                margin: auto;
+            }
+
+            #topo 
+            {
+                background-image: linear-gradient(300deg,#8FC1B5, #2f9984, #007566, #174738);
+                background-repeat: no-repeat;
+                height: 160px;
+            }
+
+            #topo img
+            {
+                margin-left: 10px;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            #menu{
+                background-image: linear-gradient(315deg,#8FC1B5, #2f9984, #007566, #174738);
+                font-family: Arial, Helvetica, sans-serif; 
+                
+            }
+
+            #menu nav a{
+                color: white;
+                padding: 8px;
+                text-decoration: none;
+                font-weight: bold;
+                transition-duration: 0.2s;
+                text-align: center;
+            }
+                
+            #menu nav a::after{
+                content: " ";
+                width: 0px;
+                height: 4px;
+                background-image: linear-gradient(315deg,#8FC1B5, #2f9984, #007566, #174738);
+                position: absolute;
+                top: 19px;
+                left: 0;
+                transition: width 0.5s;
+            }
+
+            #menu nav > a:hover {
+                border-radius: 100px;
+                height: 5px;
+                color: #01110c;
+            }
+
+            #conteudo {
+                background-image: url(fotos/img2.jpg);
+                background-repeat: no-repeat;
+                height: 635px;
+                width: 790px;
+               
+                padding-left: 100px;
+                padding-right: 100px;
+                padding-bottom: 100px;
+                padding-top: 10px;
+                margin: auto;
+                
+            }
+
+            #conteudo div{
+                padding-right: 100px;
+                color: white; 
+                height: 700px;
+                border-radius: 30px;  
+            }
+
+            main 
+            {
+                padding-left: 80px;
+                padding-top: 70px;           
+                padding-right: -5px;
+            }
+            
+            main > p {
+                display: inline-block;
+                background-color: rgba(0, 0, 0, 0.445);
+                text-shadow: 1px 1px 0px black;
+                font-size: 20px;
+            }
+
+            footer {
+                background-image: linear-gradient(300deg,#8FC1B5, #2f9984, #007566, #174738);
+                color: white;
+                text-align: center;
+                padding: 10px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+    </style>
+</head>
+<body>
+    <div id="site">
+        <div id="topo">
+            <img src="fotos/p11.png" alt="" width="160px">
+        </div>
+
+        <div id="menu">
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">Blogs</a>
+                <a href="#">Segmentos</a>
+                <a href="#">Nossos Serviços</a>
+                <a href="#">Nossos Planos</a>
+                <a href="#">Quem Somos</a>
+                <a href="#">Contacte-nos</a>
+            </nav>
+        </div>
+        <div id="conteudo">
+            
+            <div>
+                <main>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae accusamus earum est alias molestiae atque provident facere nesciunt sint aut veritatis quidem distinctio ratione similique laudantium culpa ad repellendus, soluta minus? A est nesciunt quia dolorem iure modi architecto odio similique minus. Laborum ut molestiae nam accusantium? Reprehenderit, ullam asperiores aut officiis impedit doloremque perspiciatis inventore sed enim sapiente deleniti praesentium eveniet molestias nihil vel ab repellat ipsum adipisci quidem iste obcaecati! Error tenetur soluta eos accusamus laudantium architecto at blanditiis iusto dignissimos? Eum incidunt voluptatem nesciunt odio repudiandae, eius minus accusamus ut ipsum aperiam quis tempora, animi maiores quae.
+                    </p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem minima saepe non quae ipsam eligendi nesciunt voluptatibus ut similique? Porro, neque esse, at eaque odio tempora amet maiores adipisci quibusdam consectetur vel quo recusandae ducimus illo earum ipsam, minima distinctio inventore temporibus debitis natus sapiente. Facilis nostrum maiores quidem quaerat rem itaque eaque autem. Quae laborum molestias, dignissimos explicabo recusandae esse natus optio eaque ipsa ullam ea, doloremque libero earum asperiores nesciunt enim tempora nulla sint necessitatibus! Amet et, aliquam nulla voluptate quis alias enim soluta nesciunt neque cupiditate quam, dicta eligendi in deleniti nemo delectus reiciendis accusantium harum necessitatibus est itaque ab laborum culpa consequuntur! Fuga quasi perferendis, ipsum optio possimus voluptatibus delectus ullam, </p>
+
+                </main>
+            </div>
+        </div>
+        <footer> 
+            <p>Site criado por <b>Jessé Neto</b> e <b>Joel Gouveia</b> para a aula de TLP</p>
+        </footer>
+    </div>
+
+</body>
+</html>

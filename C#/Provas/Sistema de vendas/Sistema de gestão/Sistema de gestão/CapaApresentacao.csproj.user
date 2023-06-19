@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="acerca_de.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cad_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cad_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cad_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pes_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pes_fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pes_produto1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pes_produto2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cad_fornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="relatorio_compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="relatorio_venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="painel_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pes_produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+               string Sql = "select ID from Produto where Nome = @Nome  and Quantidade != 0";
+                SqlCommand cmd = new SqlCommand(Sql, con);
+                cmd.Parameters.AddWithValue("@Nome", Nome_Produto.Text);
+                int CodProduto = (int)cmd.ExecuteScalar();
+
+                string Sql2 = "select Quantidade from Produto where Nome = @Nome  and Quantidade != 0";
+                SqlCommand cmd2 = new SqlCommand(Sql2, con);
+                cmd2.Parameters.AddWithValue("@Nome", Nome_Produto.Text);
+                int QuantidadeActual = (int)cmd2.ExecuteScalar();
+
+                //Realizar a redução da quantidade
+                SqlDataAdapter Cmd = new SqlDataAdapter();
+                Cmd.InsertCommand = new SqlCommand("update Produto set Quantidade = @Quantidade where ID = @ID", con);
+                Cmd.InsertCommand.Parameters.Add("@Quantidade", SqlDbType.Int).Value = QuantidadeActual - Convert.ToInt32(QT.Text);
+                Cmd.InsertCommand.Parameters.Add("@ID", SqlDbType.Int).Value = CodProduto;
+                Cmd.InsertCommand.ExecuteNonQuery();

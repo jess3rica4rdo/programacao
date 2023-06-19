@@ -1,0 +1,24 @@
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\bin\Debug\net6.0\CapaEntidade.deps.json
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\bin\Debug\net6.0\CapaEntidade.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\bin\Debug\net6.0\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\refint\CapaEntidade.dll
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Ambiente de Trabalho\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\ref\CapaEntidade.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\bin\Debug\net6.0\CapaEntidade.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\bin\Debug\net6.0\CapaEntidade.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\bin\Debug\net6.0\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\refint\CapaEntidade.dll
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\CapaEntidade.pdb
+C:\Users\USER\OneDrive\Documents\Estudos IPIKK\programacao\C#\Provas\Sistema de vendas\Sistema de gestão\CapaEntidade\obj\Debug\net6.0\ref\CapaEntidade.dll
